@@ -50,3 +50,15 @@ Saída: Imprima a saída conforme o exemplo fornecido.
 | | 4 17 65 |
 | | 5 25 125 |
 | | 5 26 126 |
+
+> 3 / 3 - Tuitando
+
+O microblog Twitter é conhecido por limitar as postagens em 140 caracteres. Conferir se um texto vai caber em um tuíte é sua tarefa.
+
+Entrada: A entrada é uma linha de texto T (1 ≤ |T| ≤ 500).
+
+Saída: A saída é dada em uma única linha. Ela deve ser "TWEET" (sem as aspas) se a linha de texto T tem até 140 caracteres. Se T tem mais de 140 caracteres, a saída deve ser "MUTE".
+
+| Exemplo de Entrada | Exemplo de Saída |
+| --- | --- |
+| RT @TheEllenShow: If only Bradley's arm was longer. Best photo ever. #oscars pic.twitter.com/C9U5NOtGap | TWEET |
